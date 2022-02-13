@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"No More Deals",
+			"chara",
+			[
+				254,
+				33,
+				0
+			]
+		],
+		[
+			"EEEEchrome",
+			"sans-dead",
+			[
+				175,
+		                179,
+		                230
+		    ]
+		],
+		[
+			"Parasite Sans",
+			"sans",
+			[
+				175,
+		                179,
+		                230
+		    ]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Bonus Songs",
+	"weekName": "eechrome",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "undertaleuniverseweek",
+	"startUnlocked": true
+}
