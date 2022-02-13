@@ -1,9 +1,10 @@
 {
+	"mechanic": ["lvl20"],
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				1
+				-7,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +14,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-5
+				-10,
+				15
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +25,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-18
+				-5,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +36,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				28
+				-31,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +47,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-6
+				-53,
+				-13
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +58,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				20
+				-13,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +69,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-18
+				-29,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +80,8 @@
 		},
 		{
 			"offsets": [
-				-36,
-				28
+				-25,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +91,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				23
+				-16,
+				-9
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +102,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				6
+				-30,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,30 +113,8 @@
 		},
 		{
 			"offsets": [
-				15,
-				19
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hurt",
-			"indices": [],
-			"name": "BF hit"
-		},
-		{
-			"offsets": [
-				-4,
-				1
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
 				37,
-				12
+				11
 			],
 			"loop": false,
 			"fps": 24,
@@ -146,7 +125,7 @@
 		{
 			"offsets": [
 				37,
-				6
+				5
 			],
 			"loop": true,
 			"fps": 24,
@@ -157,60 +136,27 @@
 		{
 			"offsets": [
 				37,
-				70
+				69
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-10,
-				-15
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
-		},
-		{
-			"offsets": [
-				294,
-				268
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "attack",
-			"indices": [],
-			"name": "boyfriend attack"
-		},
-		{
-			"offsets": [
-				-40,
-				-39
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "pre-attack",
-			"indices": [],
-			"name": "bf pre attack"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/CHARA_B",
 	"position": [
 		0,
-		350
+		300
 	],
-	"healthicon": "bf",
+	"healthicon": "chara-black",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		8,
+		8,
+		8
 	],
 	"camera_position": [
 		0,
